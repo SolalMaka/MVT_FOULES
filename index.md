@@ -49,7 +49,7 @@ Totale de la panique.
 
 Présentation du choix de modélisation, des outils, du code et des résultats (tableaux, courbes, animations...) (**avec une analyse critique**).
 
-## Lien vers page de blog : <a https://github.com/ARE2020-G10G11/MVT_FOULES/blob/master/blog.md> C'est ici ! </a>
+## Lien vers page de blog : <a href=""> C'est ici ! </a>
 
 ## Bibliographie :
 
