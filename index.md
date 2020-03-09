@@ -9,7 +9,7 @@ Determine the amount of time necessary for a panicked crowd to go back to normal
 
 |(´・ω・｀)| ( ͡° ͜ʖ ͡°) | ಠ_ಠ | ᕕ( ᐛ )ᕗ |
 |-----|--|--|--|
-| P. BiNom du projet
+| Z. ADJISSA | 	S. PERMALNAICK |	R. AICHI |	W.XUCHEN |
 
 Résumé de quelques lignes présentant l'objectif de votre projet, la méthode que vous avez suivie pour le réaliser et les résultats marquants que vous avez obtenus.
 English version
@@ -17,7 +17,7 @@ English version
 Un titre et un résumé en anglais qui reprennent le titre et le résumé en français, mais en anglais pour attirer une audience internationale sur vos travaux !
 Présentation de l'équipe
 (´・ω・｀) 	( ͡° ͜ʖ ͡°) 	ಠ_ಠ 	ᕕ( ᐛ )ᕗ
-Z. ADJISSA 	S. PERMALNAICK 	R. AICHI 	W.XUCHEN 
+
 Description synthétique du projet
 
 Problématique :
